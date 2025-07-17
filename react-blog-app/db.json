@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to My Blog",
+      "body": "This is the first post in your awesome React blog!"
+    },
+    {
+      "id": 2,
+      "title": "React is Fun",
+      "body": "You can build powerful UIs using components and hooks."
+    }
+  ]
+}
